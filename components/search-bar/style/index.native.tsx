@@ -17,7 +17,7 @@ export default {
   },
   input: {
     borderRadius: variables.radius_md,
-    backgroundColor: '#fff',
+    backgroundColor: variables.search_input_text,
     borderColor: variables.border_color_base,
     borderWidth: variables.border_width_sm,
     height: variables.search_bar_input_height,
